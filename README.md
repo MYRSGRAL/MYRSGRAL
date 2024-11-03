@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to my Github!
 
-<!--
-**MYRSGRAL/MYRSGRAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,docker,bots,sqlite,arch" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My statistic:
+
+![MYRSGRAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYRSGRAL&theme=github_dark)
+
+### The most common programming languages in my projects:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynX92&layout=compact&theme=github_dark)
+
+
+
