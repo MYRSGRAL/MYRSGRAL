@@ -14,7 +14,7 @@
 
 ### The most common programming languages in my projects:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynX92&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYRSGRAL&layout=compact&theme=github_dark)
 
 
 
