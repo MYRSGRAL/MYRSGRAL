@@ -10,11 +10,10 @@
 
 ### My statistic:
 
-![MYRSGRAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYRSGRAL&theme=theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYRSGRAL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### The most common programming languages in my projects:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYRSGRAL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYRSGRAL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
